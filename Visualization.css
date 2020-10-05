@@ -1,0 +1,60 @@
+
+
+h1 {
+  position: absolute;
+  left: 430px;
+  top: 10px;
+  color: white; 
+  font-family: cursive;
+  font-size: 30px;
+  text-transform: uppercase;  
+} 
+
+ul {
+  position: absolute;
+  left: 440px;
+  top: 80px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #575c6e;
+      
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+  text-transform: uppercase; 
+  font-family: cursive; 
+  font-size: 10px;    
+}
+
+li a:hover {
+  background-color: #575c6e;
+}
+
+.svgCanvas {
+    border: :solid 1px;
+    background-color:#575c6e
+}
+
+.axisWhite line{
+  stroke: white;
+}
+
+
+.axisWhite path{
+  stroke: #575c6e;
+}
+
+.axisWhite text{
+  fill: white;
+}

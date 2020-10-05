@@ -1,0 +1,187 @@
+CLUESmallArea,CensusYear,NumberOfPlaces
+Carlton,2002,10
+Carlton,2003,13
+Carlton,2004,13
+Carlton,2005,15
+Carlton,2006,15
+Carlton,2007,13
+Carlton,2008,13
+Carlton,2009,14
+Carlton,2010,14
+Carlton,2011,14
+Carlton,2012,14
+Carlton,2013,14
+Carlton,2014,14
+Carlton,2015,14
+Carlton,2016,14
+Carlton,2017,14
+Carlton,2018,13
+Docklands,2002,2
+Docklands,2003,3
+Docklands,2004,3
+Docklands,2005,4
+Docklands,2006,4
+Docklands,2007,8
+Docklands,2008,8
+Docklands,2009,11
+Docklands,2010,11
+Docklands,2011,11
+Docklands,2012,11
+Docklands,2013,11
+Docklands,2014,14
+Docklands,2015,14
+Docklands,2016,14
+Docklands,2017,14
+Docklands,2018,15
+East Melbourne,2002,3
+East Melbourne,2003,3
+East Melbourne,2004,3
+East Melbourne,2005,2
+East Melbourne,2006,2
+East Melbourne,2007,1
+East Melbourne,2008,1
+East Melbourne,2009,2
+East Melbourne,2010,2
+East Melbourne,2011,2
+East Melbourne,2012,2
+East Melbourne,2013,2
+East Melbourne,2014,2
+East Melbourne,2015,2
+East Melbourne,2016,2
+East Melbourne,2017,2
+East Melbourne,2018,2
+Kensington,2008,2
+Kensington,2009,2
+Kensington,2010,2
+Kensington,2011,2
+Kensington,2012,2
+Kensington,2013,2
+Kensington,2014,2
+Kensington,2015,3
+Kensington,2016,3
+Kensington,2017,3
+Kensington,2018,3
+Melbourne (CBD),2002,63
+Melbourne (CBD),2003,63
+Melbourne (CBD),2004,85
+Melbourne (CBD),2005,98
+Melbourne (CBD),2006,108
+Melbourne (CBD),2007,119
+Melbourne (CBD),2008,138
+Melbourne (CBD),2009,147
+Melbourne (CBD),2010,162
+Melbourne (CBD),2011,172
+Melbourne (CBD),2012,182
+Melbourne (CBD),2013,180
+Melbourne (CBD),2014,187
+Melbourne (CBD),2015,189
+Melbourne (CBD),2016,192
+Melbourne (CBD),2017,184
+Melbourne (CBD),2018,179
+Melbourne (Remainder),2002,2
+Melbourne (Remainder),2003,2
+Melbourne (Remainder),2004,2
+Melbourne (Remainder),2005,2
+Melbourne (Remainder),2006,2
+Melbourne (Remainder),2007,2
+Melbourne (Remainder),2008,2
+Melbourne (Remainder),2009,2
+Melbourne (Remainder),2010,2
+Melbourne (Remainder),2011,2
+Melbourne (Remainder),2012,2
+Melbourne (Remainder),2013,2
+Melbourne (Remainder),2014,2
+Melbourne (Remainder),2015,3
+Melbourne (Remainder),2016,3
+Melbourne (Remainder),2017,1
+Melbourne (Remainder),2018,1
+North Melbourne,2002,11
+North Melbourne,2003,12
+North Melbourne,2004,12
+North Melbourne,2005,13
+North Melbourne,2006,13
+North Melbourne,2007,15
+North Melbourne,2008,15
+North Melbourne,2009,17
+North Melbourne,2010,17
+North Melbourne,2011,17
+North Melbourne,2012,14
+North Melbourne,2013,14
+North Melbourne,2014,15
+North Melbourne,2015,15
+North Melbourne,2016,14
+North Melbourne,2017,14
+North Melbourne,2018,12
+Parkville,2002,3
+Parkville,2003,4
+Parkville,2004,4
+Parkville,2005,4
+Parkville,2006,4
+Parkville,2007,4
+Parkville,2008,4
+Parkville,2009,4
+Parkville,2010,4
+Parkville,2011,4
+Parkville,2012,3
+Parkville,2013,3
+Parkville,2014,3
+Parkville,2015,3
+Parkville,2016,3
+Parkville,2017,3
+Parkville,2018,3
+Port Melbourne,2010,1
+Port Melbourne,2011,1
+Port Melbourne,2012,1
+Port Melbourne,2015,1
+Port Melbourne,2016,1
+South Yarra,2002,1
+South Yarra,2003,1
+South Yarra,2004,2
+South Yarra,2005,2
+South Yarra,2006,1
+South Yarra,2007,1
+South Yarra,2008,1
+South Yarra,2009,1
+South Yarra,2010,1
+South Yarra,2011,1
+South Yarra,2012,1
+South Yarra,2013,1
+South Yarra,2014,1
+South Yarra,2015,1
+South Yarra,2016,1
+South Yarra,2017,1
+South Yarra,2018,1
+Southbank,2002,1
+Southbank,2003,1
+Southbank,2004,6
+Southbank,2005,6
+Southbank,2006,16
+Southbank,2007,16
+Southbank,2008,18
+Southbank,2009,18
+Southbank,2010,18
+Southbank,2011,22
+Southbank,2012,22
+Southbank,2013,22
+Southbank,2014,22
+Southbank,2015,27
+Southbank,2016,27
+Southbank,2017,24
+Southbank,2018,24
+West Melbourne (Residential),2002,1
+West Melbourne (Residential),2003,1
+West Melbourne (Residential),2004,1
+West Melbourne (Residential),2005,2
+West Melbourne (Residential),2006,2
+West Melbourne (Residential),2007,2
+West Melbourne (Residential),2008,2
+West Melbourne (Residential),2009,4
+West Melbourne (Residential),2010,4
+West Melbourne (Residential),2011,4
+West Melbourne (Residential),2012,4
+West Melbourne (Residential),2013,4
+West Melbourne (Residential),2014,4
+West Melbourne (Residential),2015,4
+West Melbourne (Residential),2016,3
+West Melbourne (Residential),2017,3
+West Melbourne (Residential),2018,3
